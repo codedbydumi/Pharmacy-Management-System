@@ -11,7 +11,7 @@ This is a Pharmacy Management Dashboard designed to streamline the core operatio
 🧼 Modern UI: Built with responsive and clean design using modern front-end tools.
 
 🛠️ Built With:
-ASP.NET Core / C# for the backend API
-React.js or Blazor (based on your stack) for the frontend
-MSSQL for database management
-Swagger UI for API testing
+ASP.NET Core / C# for the backend API ,
+React.js  for the frontend , 
+MSSQL for database management , 
+Swagger UI for API testing .
