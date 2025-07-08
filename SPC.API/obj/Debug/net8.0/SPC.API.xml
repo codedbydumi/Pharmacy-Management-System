@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SPC.API</name>
+    </assembly>
+    <members>
+        <member name="M:SPC.API.Controllers.AuthController.Login(SPC.Core.DTOs.Authentication.LoginDto)">
+            <summary>
+            Authenticates a user and returns a JWT token
+            </summary>
+            <param name="loginDto">The login credentials</param>
+            <returns>Authentication response with tokens</returns>
+        </member>
+        <member name="M:SPC.API.Controllers.AuthController.Register(SPC.Core.DTOs.Authentication.SignUpDto)">
+            <summary>
+            Registers a new user
+            </summary>
+            <param name="signUpDto">The registration information</param>
+            <returns>Authentication response with tokens</returns>
+        </member>
+        <member name="M:SPC.API.Controllers.AuthController.RefreshToken(System.String)">
+            <summary>
+            Refreshes an expired access token using a refresh token
+            </summary>
+            <param name="refreshToken">The refresh token</param>
+            <returns>New authentication response with new tokens</returns>
+        </member>
+        <member name="M:SPC.API.Controllers.AuthController.RevokeToken(System.String)">
+            <summary>
+            Revokes the refresh token for a user
+            </summary>
+            <param name="userEmail">The email of the user</param>
+            <returns>Success status</returns>
+        </member>
+    </members>
+</doc>

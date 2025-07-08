@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPC.API.props" />
+</Project>

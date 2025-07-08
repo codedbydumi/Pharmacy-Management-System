@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pfjujar9c5k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

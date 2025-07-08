@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SPC.Shared/1.0.0": {
+        "runtime": {
+          "SPC.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SPC.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
