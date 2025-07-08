@@ -12,6 +12,5 @@ This is a Pharmacy Management Dashboard designed to streamline the core operatio
 
 🛠️ Built With:
 ASP.NET Core / C# for the backend API ,
-React.js  for the frontend , 
-MSSQL for database management , 
+React.js  for the frontend , database management , 
 Swagger UI for API testing .
