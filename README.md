@@ -148,12 +148,3 @@ npm run dev
 ---
 
 > Made with ❤️ by **codedbydumi**
-
-
-✅ This is now 100% valid GitHub Markdown with correct structure, formatting, and spacing.
-
-Let me know if you'd like:
-- A `.md` file download link
-- This turned into a printable PDF
-- Badges or project status added at the top (e.g., build passing, tech stack icons)
-```
