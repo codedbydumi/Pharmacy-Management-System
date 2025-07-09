@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj": {}
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj": {
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj",
         "projectName": "SPC.Shared",
-        "projectPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj",
+        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj",
         "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\obj\\",
+        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"

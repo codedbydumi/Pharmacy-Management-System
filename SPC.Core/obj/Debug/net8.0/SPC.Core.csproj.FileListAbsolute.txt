@@ -35,3 +35,16 @@ C:\Users\DT\Downloads\dumu02.23.2025-main\dumu02.23.2025-main\SPC.Solution\src\S
 C:\Users\DT\Downloads\dumu02.23.2025-main\dumu02.23.2025-main\SPC.Solution\src\SPC.Core\obj\Debug\net8.0\refint\SPC.Core.dll
 C:\Users\DT\Downloads\dumu02.23.2025-main\dumu02.23.2025-main\SPC.Solution\src\SPC.Core\obj\Debug\net8.0\SPC.Core.pdb
 C:\Users\DT\Downloads\dumu02.23.2025-main\dumu02.23.2025-main\SPC.Solution\src\SPC.Core\obj\Debug\net8.0\ref\SPC.Core.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\bin\Debug\net8.0\SPC.Core.deps.json
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\bin\Debug\net8.0\SPC.Core.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\bin\Debug\net8.0\SPC.Core.pdb
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.csproj.AssemblyReference.cache
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.AssemblyInfoInputs.cache
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.AssemblyInfo.cs
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.csproj.CoreCompileInputs.cache
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.sourcelink.json
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\refint\SPC.Core.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\SPC.Core.pdb
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Core\obj\Debug\net8.0\ref\SPC.Core.dll

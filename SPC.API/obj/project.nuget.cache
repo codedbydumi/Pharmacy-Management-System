@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0y6jlcp8vE=",
+  "dgSpecHash": "ddz6Aea5a4Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.API\\SPC.API.csproj",
+  "projectFilePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DT\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

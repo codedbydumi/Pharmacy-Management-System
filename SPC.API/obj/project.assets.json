@@ -5554,11 +5554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.API\\SPC.API.csproj",
+      "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj",
       "projectName": "SPC.API",
-      "projectPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.API\\SPC.API.csproj",
+      "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj",
       "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.API\\obj\\",
+      "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5573,14 +5573,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Core\\SPC.Core.csproj": {
-              "projectPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Core\\SPC.Core.csproj"
+            "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj": {
+              "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj"
             },
-            "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Infrastructure\\SPC.Infrastructure.csproj"
+            "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj"
             },
-            "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj": {
-              "projectPath": "C:\\Users\\DT\\Downloads\\dumu02.23.2025-main\\dumu02.23.2025-main\\SPC.Solution\\src\\SPC.Shared\\SPC.Shared.csproj"
+            "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {
+              "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj"
             }
           }
         }
