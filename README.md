@@ -96,9 +96,12 @@ Make sure CORS is enabled in the backend for cross-origin requests if needed.
 📁 Save your screenshots in an Assets/ folder to ensure they render properly.
 
 ✅ Installation Summary
-Part	Command	URL
-Backend	dotnet run	https://localhost:5001/swagger
-Frontend	npm install && npm run dev	http://localhost:5173
+| Part     | Command                      | URL                              |
+| -------- | ---------------------------- | -------------------------------- |
+| Backend  | `dotnet run`                 | `https://localhost:5001/swagger` |
+| Frontend | `npm install && npm run dev` | `http://localhost:5173`          |
+
+
 
 Made with ❤️ by codedbydumi
 
