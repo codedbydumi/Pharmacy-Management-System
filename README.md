@@ -1,16 +1,119 @@
-🧾 Pharmacy Management System
-This is a Pharmacy Management Dashboard designed to streamline the core operations of a pharmacy. It allows admins to manage drugs, track orders, monitor suppliers, and visualize monthly sales in a centralized platform.
+# 💊 Pharmacy Management System
 
-🔥 Key Features:
-💊 Drug Inventory Management: Track total drugs, stock levels, and receive low stock alerts.
-📦 Order Tracking: View pending orders and calculate total revenue.
-🧑‍💼 Supplier Management: Monitor active suppliers and manage new supplier requests.
-📊 Sales Analytics: Interactive chart showing monthly sales trends over the last 6 months.
-📝 Recent Activities: Keep track of new and pending orders with timestamps.
-🔐 User Authentication: Secure access for authorized users only (admin/staff).
-🧼 Modern UI: Built with responsive and clean design using modern front-end tools.
+A **web-based pharmacy dashboard** for managing drug inventory, supplier orders, sales, and real-time stock levels.  
+This full-stack application features a secure login, smart alerts, and detailed activity logs, built with **ASP.NET Core (Backend)** and a **modern JavaScript frontend (Vite + React)**.
 
-🛠️ Built With:
-ASP.NET Core / C# for the backend API ,
-React.js  for the frontend , database management , 
-Swagger UI for API testing .
+<p align="center">
+  <img src="./Assets/pharmacy-management-ui.png" alt="Pharmacy Management Screenshot" width="800"/>
+</p>
+
+---
+
+## 🌐 Live Preview
+
+> 🚀 **Live URL:** _Coming soon..._
+
+---
+
+## 🧰 Tech Stack
+
+| Layer        | Technologies                       |
+|--------------|------------------------------------|
+| **Frontend** | React, Vite, Tailwind CSS          |
+| **Backend**  | ASP.NET Core Web API (.NET 6+)     |
+| **Database** | MSSQL (auto-created with EF Core)  |
+| **Dev Tools**| VS Code, Swagger, Postman          |
+
+---
+
+## 📦 Project Structure
+
+Pharmacy-Management-System/
+├── SPC.API/ # Backend Web API
+├── SPC.Core/ # Core business logic
+├── SPC.Infrastructure/ # DB context, repositories
+├── SPC.Shared/ # Shared models
+├── dumiUI.../src # Frontend app (React + Tailwind)
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 📋 Features
+
+- 📦 Drug inventory tracking  
+- 🛒 Supplier & order management  
+- 📊 Sales analytics  
+- 🔔 Low stock alerts  
+- 🔐 Secure login/authentication  
+- 🧾 Activity logs  
+- 🌐 Fully responsive UI  
+- 📑 Swagger auto-generated API documentation  
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the Repository
+
+```bash
+git clone https://github.com/codedbydumi/Pharmacy-Management-System.git
+cd Pharmacy-Management-System
+⚙️ Backend Setup (ASP.NET Core)
+Navigate to the backend project folder:
+
+bash
+Copy
+Edit
+cd SPC.API
+Run the backend using:
+
+bash
+Copy
+Edit
+dotnet run
+✅ This will:
+
+Automatically create the MSSQL database using Entity Framework Core.
+
+Launch the Swagger UI at https://localhost:5001/swagger (or your configured port).
+
+💻 Frontend Setup (Vite + React)
+Navigate to the frontend folder:
+
+bash
+Copy
+Edit
+cd dumiUI02.23.2025-main/src
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev
+🚀 The app will be available at http://localhost:5173 (or your Vite default port).
+
+🔄 API Integration
+Ensure the frontend is pointing to the correct backend URL (https://localhost:5001/api/...).
+Make sure CORS is enabled in the backend for cross-origin requests if needed.
+
+📸 Screenshots
+🔹 GitHub Repository View
+
+🔹 VS Code Workspace
+
+📁 Save your screenshots in an Assets/ folder to ensure they render properly.
+
+✅ Installation Summary
+Part	Command	URL
+Backend	dotnet run	https://localhost:5001/swagger
+Frontend	npm install && npm run dev	http://localhost:5173
