@@ -5,7 +5,7 @@ A **web-based pharmacy dashboard** for managing drug inventory, supplier orders,
 This full-stack application features a secure login, smart alerts, and detailed activity logs, built with **ASP.NET Core (Backend)** and a **modern JavaScript frontend (Vite + React)**.
 
 <p align="center">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/5a79fa51-7bf5-4d2d-b86d-251a1ac020f0" />
+  <img src="https://github.com/user-attachments/assets/5a79fa51-7bf5-4d2d-b86d-251a1ac020f0" alt="Pharmacy App UI" width="800"/>
 </p>
 
 ---
