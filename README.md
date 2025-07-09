@@ -22,7 +22,7 @@ This full-stack application features a secure login, smart alerts, and detailed 
 | **Frontend** | React, Vite, Tailwind CSS          |
 | **Backend**  | ASP.NET Core Web API (.NET 6+)     |
 | **Database** | MSSQL (auto-created with EF Core)  |
-| **Dev Tools**| VS Code, Swagger, Postman          |
+| **Dev Tools**| VS Code, Swagger          |
 
 ---
 
@@ -35,10 +35,6 @@ Pharmacy-Management-System/
 ├── SPC.Shared/ # Shared models
 ├── dumiUI.../src # Frontend app (React + Tailwind)
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -59,21 +55,16 @@ Edit
 
 ### 📁 Clone the Repository
 
-```bash
+
 git clone https://github.com/codedbydumi/Pharmacy-Management-System.git
 cd Pharmacy-Management-System
 ⚙️ Backend Setup (ASP.NET Core)
-Navigate to the backend project folder:
 
-bash
-Copy
-Edit
+Navigate to the backend project folder:
 cd SPC.API
 Run the backend using:
 
-bash
-Copy
-Edit
+
 dotnet run
 ✅ This will:
 
@@ -84,21 +75,13 @@ Launch the Swagger UI at https://localhost:5001/swagger (or your configured port
 💻 Frontend Setup (Vite + React)
 Navigate to the frontend folder:
 
-bash
-Copy
-Edit
+
 cd dumiUI02.23.2025-main/src
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
 Run the development server:
 
-bash
-Copy
-Edit
 npm run dev
 🚀 The app will be available at http://localhost:5173 (or your Vite default port).
 
@@ -114,6 +97,10 @@ Make sure CORS is enabled in the backend for cross-origin requests if needed.
 📁 Save your screenshots in an Assets/ folder to ensure they render properly.
 
 ✅ Installation Summary
-Part	Command	URL
-Backend	dotnet run	https://localhost:5001/swagger
-Frontend	npm install && npm run dev	http://localhost:5173
+| Part     | Command                      | URL                              |
+| -------- | ---------------------------- | -------------------------------- |
+| Backend  | `dotnet run`                 | `https://localhost:5001/swagger` |
+| Frontend | `npm install && npm run dev` | `http://localhost:5173`          |
+
+
+Made with ❤️ by codedbydumi
