@@ -5,7 +5,7 @@ A **web-based pharmacy dashboard** for managing drug inventory, supplier orders,
 This full-stack application features a secure login, smart alerts, and detailed activity logs, built with **ASP.NET Core (Backend)** and a **modern JavaScript frontend (Vite + React)**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a79fa51-7bf5-4d2d-b86d-251a1ac020f0" alt="Pharmacy App UI" width="800"/>
+  <img src="https://github.com/user-attachments/assets/5a79fa51-7bf5-4d2d-b86d-251a1ac020f0" alt="Pharmacy App UI" width="600"/>
 </p>
 
 ---
@@ -121,13 +121,17 @@ npm run dev
 
 ## 📸 Screenshots
 
-* 🔹 GitHub Repository View
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/02c5bbc3-ba47-47fb-9c25-30b707dc54fc" />
+## 📸 Screenshots
 
-  
-* 🔹 VS Code Workspace
-<img width="960" alt="phamacy" src="https://github.com/user-attachments/assets/46a549f4-eec2-4925-a09a-40022bbc17aa" />
+### 🔹 GitHub Repository View
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02c5bbc3-ba47-47fb-9c25-30b707dc54fc" alt="GitHub Repo View" width="800"/>
+</p>
 
+### 🔹 VS Code Workspace
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46a549f4-eec2-4925-a09a-40022bbc17aa" alt="VS Code Workspace" width="800"/>
+</p>
 
 
 📁 Save your screenshots in an `Assets/` folder to ensure they render properly.
