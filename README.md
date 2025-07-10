@@ -132,7 +132,6 @@ npm run dev
 </p>
 
 
-📁 Save your screenshots in an `Assets/` folder to ensure they render properly.
 
 ---
 
