@@ -121,8 +121,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🔹 GitHub Repository View
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02c5bbc3-ba47-47fb-9c25-30b707dc54fc" alt="GitHub Repo View" width="800"/>
