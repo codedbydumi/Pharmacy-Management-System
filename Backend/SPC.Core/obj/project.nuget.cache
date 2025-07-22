@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+I+UZ8oCZI=",
+  "dgSpecHash": "ffkFB1G2TF8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj",
+  "projectFilePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0\\microsoft.aspnetcore.cryptography.internal.8.0.0.nupkg.sha512",
     "C:\\Users\\DT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.0\\microsoft.aspnetcore.cryptography.keyderivation.8.0.0.nupkg.sha512",

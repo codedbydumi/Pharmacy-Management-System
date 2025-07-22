@@ -44,3 +44,15 @@ C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Shared\obj\
 C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Shared\obj\Debug\net8.0\refint\SPC.Shared.dll
 C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Shared\obj\Debug\net8.0\SPC.Shared.pdb
 C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\SPC.Shared\obj\Debug\net8.0\ref\SPC.Shared.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\bin\Debug\net8.0\SPC.Shared.deps.json
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\bin\Debug\net8.0\SPC.Shared.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\bin\Debug\net8.0\SPC.Shared.pdb
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.AssemblyInfoInputs.cache
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.AssemblyInfo.cs
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.csproj.CoreCompileInputs.cache
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.sourcelink.json
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\refint\SPC.Shared.dll
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\SPC.Shared.pdb
+C:\Users\DT\OneDrive\Documents\GitHub\Pharmacy-Management-System\Backend\SPC.Shared\obj\Debug\net8.0\ref\SPC.Shared.dll

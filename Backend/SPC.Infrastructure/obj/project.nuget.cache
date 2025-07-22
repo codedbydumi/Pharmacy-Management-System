@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGPQiCdcFm4=",
+  "dgSpecHash": "5j6lVw9ktZw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DT\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -96,9 +96,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNetCore.Identity' 2.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2865-hh9g-w894",
-      "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
+      "filePath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
       "libraryId": "Microsoft.AspNetCore.Identity",
       "targetGraphs": [
         "net8.0"

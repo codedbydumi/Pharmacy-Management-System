@@ -816,11 +816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj",
+      "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj",
       "projectName": "SPC.Core",
-      "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj",
+      "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj",
       "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\obj\\",
+      "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"

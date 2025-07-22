@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj": {}
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.API\\SPC.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj": {
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.API\\SPC.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj",
+        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.API\\SPC.API.csproj",
         "projectName": "SPC.API",
-        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\SPC.API.csproj",
+        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.API\\SPC.API.csproj",
         "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.API\\obj\\",
+        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj": {
-                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj"
+              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj": {
+                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj"
               },
-              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj"
+              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj"
               },
-              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {
-                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj"
+              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj": {
+                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj"
               }
             }
           }
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj": {
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj",
         "projectName": "SPC.Core",
-        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj",
+        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj",
         "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\obj\\",
+        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
         "projectName": "SPC.Infrastructure",
-        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\SPC.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -221,11 +221,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj": {
-                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Core\\SPC.Core.csproj"
+              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj": {
+                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Core\\SPC.Core.csproj"
               },
-              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {
-                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj"
+              "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj": {
+                "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj"
               }
             }
           }
@@ -323,14 +323,14 @@
         }
       }
     },
-    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj": {
+    "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj",
         "projectName": "SPC.Shared",
-        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\SPC.Shared.csproj",
+        "projectPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\SPC.Shared.csproj",
         "packagesPath": "C:\\Users\\DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\SPC.Shared\\obj\\",
+        "outputPath": "C:\\Users\\DT\\OneDrive\\Documents\\GitHub\\Pharmacy-Management-System\\Backend\\SPC.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
