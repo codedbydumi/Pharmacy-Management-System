@@ -144,4 +144,4 @@ npm run dev
 
 ---
 
-> Made with ❤️ by **codedbydumi**
+> Made with ❤️ by **codedbydumi** .
