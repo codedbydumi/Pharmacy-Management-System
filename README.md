@@ -1,4 +1,3 @@
-
 # 💊 Pharmacy Management System
 
 A **web-based pharmacy dashboard** for managing drug inventory, supplier orders, sales, and real-time stock levels.  
@@ -144,4 +143,4 @@ npm run dev
 
 ---
 
-> Made with ❤️ by **codedbydumi**
+> Made with ❤️ by **codedbydumi** .
